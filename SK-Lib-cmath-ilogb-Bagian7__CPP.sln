@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SK-Lib-cmath-ilogb-Bagian7__CPP", "SK-Lib-cmath-ilogb-Bagian7__CPP\SK-Lib-cmath-ilogb-Bagian7__CPP.vcxproj", "{1801D8EB-0B53-49B6-9550-E67C9D2B7CAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1801D8EB-0B53-49B6-9550-E67C9D2B7CAB}.Debug|x64.ActiveCfg = Debug|x64
+		{1801D8EB-0B53-49B6-9550-E67C9D2B7CAB}.Debug|x64.Build.0 = Debug|x64
+		{1801D8EB-0B53-49B6-9550-E67C9D2B7CAB}.Debug|x86.ActiveCfg = Debug|Win32
+		{1801D8EB-0B53-49B6-9550-E67C9D2B7CAB}.Debug|x86.Build.0 = Debug|Win32
+		{1801D8EB-0B53-49B6-9550-E67C9D2B7CAB}.Release|x64.ActiveCfg = Release|x64
+		{1801D8EB-0B53-49B6-9550-E67C9D2B7CAB}.Release|x64.Build.0 = Release|x64
+		{1801D8EB-0B53-49B6-9550-E67C9D2B7CAB}.Release|x86.ActiveCfg = Release|Win32
+		{1801D8EB-0B53-49B6-9550-E67C9D2B7CAB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {653D4DD7-0B57-4EF5-8682-276BB30FD8D7}
+	EndGlobalSection
+EndGlobal
